@@ -2,6 +2,24 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0.
 
+## Prerequisites
+- [Node.js](https://nodejs.org) >= 6.9.x - Node.js is a JavaScript runtime
+  - `node -v`
+- [npm](https://www.npmjs.com) >= 3.x.x - Node.js Package Manager
+  - `npm -v`
+- TypeScript >= 2.1
+  - `npm install -g typescript`
+- [Angular CLI](https://github.com/angular/angular-cli) - Angular Command Line Interface
+  - `npm install -g @angular/cli`
+- [Now CLI](https://www.npmjs.com/package/now) - Now Command Line Interface is universal serverless single command deployment
+  - `npm install -g now`
+  
+## Useful scripts
+1. setup
+1. run
+1. build
+1. deploy
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
